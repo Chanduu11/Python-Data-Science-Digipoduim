@@ -1,6 +1,7 @@
 numpy
 matplotlib
 plotly
+nbformat
 pandas 
 pillow
 streamlit

@@ -9,3 +9,4 @@ pyqt6
 dputils
 opencv-contrib-python
 pysimplegui
+openpyxl
